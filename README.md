@@ -10,13 +10,13 @@
 
 ## 分类
 
-- [Php](#php)
+- [PHP](#php)
 - [Linux](#linux)
 - [Mysql](#mysql)
 
 
 
-## Php
+## PHP
 
 [strtotime遇到+1 month](php/strtotime.md)
 
@@ -24,7 +24,7 @@
 
 ## Linux
 
-
+[bash-set-option-euxo](linux/bash-set-option-euxo.md)
 
 
 
