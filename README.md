@@ -24,7 +24,9 @@
 
 ## Linux
 
-[bash-set-option-euxo](linux/bash-set-option-euxo.md)
+### bash
+
+[set-option-euxo](linux/bash/set-option-euxo.md)
 
 
 
