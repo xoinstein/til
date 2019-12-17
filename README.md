@@ -13,6 +13,7 @@
 - [PHP](#php)
 - [Linux](#linux)
 - [Mysql](#mysql)
+- [JavaScript](#JavaScript)
 
 
 
@@ -32,6 +33,11 @@
 
 ## Mysql
 
+
+
+## JavaScript
+
+[window.length](js/window-length.md)
 
 
 
