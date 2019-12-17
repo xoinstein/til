@@ -30,7 +30,7 @@
 
 ```javascript
 if (window.parent.length) {
-		window.parent.href = 'login.html';
+    window.parent.href = 'login.html';
 }
 ```
 
