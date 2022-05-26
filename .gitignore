@@ -50,4 +50,6 @@ tags
 # Persistent undo
 [._]*.un~
 
+.obsidian
+
 # End of https://www.gitignore.io/api/vim,macos
